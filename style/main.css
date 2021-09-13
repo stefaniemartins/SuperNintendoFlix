@@ -101,6 +101,12 @@ header nav a:hover{
     transition: .3s ease all;
 }
 
+.box-filme:hover {
+    border: solid 5px grey;
+    transition: border-width 0.2s;
+    background-color: rgba(0,0,0,.50);
+}
+
 .carrosel-filmes{
     margin-top: 5px;
 }
